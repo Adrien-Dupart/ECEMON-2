@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1604528408 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\include\carte.h
+	<string>
+
+1604528169 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\main.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+	"Energie.h"
+	<Creature.h>
+	<Speciale.h>
+
+1604528408 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\src\energie.cpp
+	"Energie.h"
+	<iostream>
+	<string>
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\include\energie.h
+	<string>
+	<Carte.h>
+
+1604526286 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\sous programmes.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+	"Energie.h"
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\include\creature.h
+	<string>
+	<Carte.h>
+
+1604528438 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\src\creature.cpp
+	"Creature.h"
+	<iostream>
+	<string>
+
+1604528104 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\src\speciale.cpp
+	"Speciale.h"
+	<iostream>
+	<string>
+
+1604528104 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\include\speciale.h
+	<string>
+	<Carte.h>
+
+1604528169 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\main.cpp
+	<iostream>
+	<string>
+	"Carte.h"
+	"Energie.h"
+	<Creature.h>
+	<Speciale.h>
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\include\carte.h
+	<string>
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\include\energie.h
+	<string>
+	<Carte.h>
+
+1604528408 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\include\creature.h
+	<string>
+	<Carte.h>
+
+1604528104 c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\include\speciale.h
+	<string>
+	<Carte.h>
+
+1604528408 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\src\carte.cpp
+	"Carte.h"
+	<iostream>
+	<string>
+
+1604528438 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\src\creature.cpp
+	"Creature.h"
+	<iostream>
+	<string>
+
+1604528408 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\src\energie.cpp
+	"Energie.h"
+	<iostream>
+	<string>
+
+1604528104 source:c:\users\adrie\onedrive - groupe inseec (poce)\documents\ece\ing2\informatique\projet ecemon\ecemon\src\speciale.cpp
+	"Speciale.h"
+	<iostream>
+	<string>
+
